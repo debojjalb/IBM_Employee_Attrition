@@ -20,7 +20,7 @@ As the COVID-19 keeps unleashing its havoc, the world continues to get pushed in
 
 Licensed under the [MIT License](LICENSE).
 
---
+---
 
 ## Files
 
@@ -30,13 +30,13 @@ Licensed under the [MIT License](LICENSE).
 * [Employee Attrition Prediction Propability 1](XGB_FINAL_SUBMISSION_1)
 * [Employee Attrition Prediction Propability 1](lgbm_final_submission)
 
---
+---
 
 ## Files
 
 I thank **IBM** & **IIT Guwahati** for the Dataset
 
---
+---
 
 ## Competition Details
 
