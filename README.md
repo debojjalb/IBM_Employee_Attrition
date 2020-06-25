@@ -1,6 +1,6 @@
 # IBM Employee Attrition (Predicting Employee Attrition in the Dawn of Recession)
 To predict Employee Attrition by the given data about his/her past history.
-The data predicted here was **Ranked #8 (Top 1%)** in a Kaggle Competition 
+The data predicted here was **Ranked #8 (Top 1%)** in a Kaggle Hackathon Competition 
 
 ## Description
 
@@ -34,7 +34,7 @@ Licensed under the [MIT License](LICENSE).
 
 ## Files
 
-I thank **IBM** & **IIT Guwahati** for the Dataset
+I thank **IBM** & **IIT Guwahati** for the Dataset & organising the Hackathon.
 
 ---
 
