@@ -24,7 +24,7 @@ Licensed under the [MIT License](LICENSE).
 
 ## Files
 
-* [My Jupyter Notebook ]IBM_ATTRITION_SummerAnalytics.ipynb)
+* [My Jupyter Notebook](IBM_ATTRITION_SummerAnalytics.ipynb)
 * [The Train Data](train.csv)
 * [The Test Data](test.csv)
 * [Employee Attrition Prediction Propability 1](XGB_FINAL_SUBMISSION_1)
