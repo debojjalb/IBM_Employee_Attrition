@@ -28,7 +28,7 @@ Licensed under the [MIT License](LICENSE).
 * [The Train Data](train.csv)
 * [The Test Data](test.csv)
 * [Employee Attrition Prediction Propability 1](XGB_FINAL_SUBMISSION_1)
-* [Employee Attrition Prediction Propability 1](lgbm_final_submission)
+* [Employee Attrition Prediction Propability 2](lgbm_final_submission)
 
 ---
 
